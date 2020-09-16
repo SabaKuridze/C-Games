@@ -1,0 +1,15 @@
+D:\CarGame\CarGame\bin\Debug\CarGame.exe.config
+D:\CarGame\CarGame\bin\Debug\CarGame.exe
+D:\CarGame\CarGame\bin\Debug\CarGame.pdb
+D:\CarGame\CarGame\obj\Debug\CarGame.csprojAssemblyReference.cache
+D:\CarGame\CarGame\obj\Debug\CarGame.CarGame.resources
+D:\CarGame\CarGame\obj\Debug\CarGame.Properties.Resources.resources
+D:\CarGame\CarGame\obj\Debug\CarGame.csproj.GenerateResource.cache
+D:\CarGame\CarGame\obj\Debug\CarGame.csproj.CoreCompileInputs.cache
+D:\CarGame\CarGame\obj\Debug\CarGame.exe
+D:\CarGame\CarGame\obj\Debug\CarGame.pdb
+D:\CarGame\CarGame\obj\Debug\CarGame.Menu.resources
+D:\CarGame\CarGame\obj\Debug\CarGame.UserControl1.resources
+D:\CarGame\CarGame\obj\Debug\CarGame.ShootingGame.resources
+D:\CarGame\CarGame\obj\Debug\CarGame.Options.resources
+D:\CarGame\CarGame\obj\Debug\CarGame.BrickGame.resources
